@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.49d91262.css",
+    "main.js": "/static/js/main.0729ef73.js",
+    "static/js/787.f964bf54.chunk.js": "/static/js/787.f964bf54.chunk.js",
+    "static/media/칼국수.jfif": "/static/media/칼국수.10e22dd2199910a045ee.jfif",
+    "static/media/스키야키.jpg": "/static/media/스키야키.12e530d77f1e27e407fb.jpg",
+    "static/media/밀푀유나베.jpg": "/static/media/밀푀유나베.0ef7330f6a5091218bfb.jpg",
+    "static/media/곰돌이.jfif": "/static/media/곰돌이.23685e68f13d8c327842.jfif",
+    "static/media/훠궈.jpg": "/static/media/훠궈.59646cfe38f6759355fe.jpg",
+    "index.html": "/index.html",
+    "main.49d91262.css.map": "/static/css/main.49d91262.css.map",
+    "main.0729ef73.js.map": "/static/js/main.0729ef73.js.map",
+    "787.f964bf54.chunk.js.map": "/static/js/787.f964bf54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49d91262.css",
+    "static/js/main.0729ef73.js"
+  ]
+}
